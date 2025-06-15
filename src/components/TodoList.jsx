@@ -1,4 +1,4 @@
-import { TodoCard } from "./todoCard";
+import { TodoCard } from "./TodoCard";
 export function TodoList(props) {
     const {todos,selectedTab,handelDeleteTodo,handelDoneTodo} = props;
     // const tab = 'All';

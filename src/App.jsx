@@ -4,7 +4,7 @@ import { Header } from './components/Header'
 import { Tabs } from './components/Tabs'
 import { TodoInput } from './components/TodoInput'
 import { TodoList } from './components/TodoList'
-import { TodoCard } from './components/todoCard'
+// import { TodoCard } from './components/todoCard'
 function App() {
   // const todos = [
   //   { input: 'Hello! Add your first todo!', complete: true },
